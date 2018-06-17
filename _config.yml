@@ -28,6 +28,8 @@ sass:
 # orgs on front page
 featured_orgs:
   - synpon
+  - osrf
+  - ros
   - tensorflow
   - github
   - deepmind
