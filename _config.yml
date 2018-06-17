@@ -30,6 +30,10 @@ featured_orgs:
   - synpon
   - osrf
   - ros
+  - ros-planning
+  - ros2
+  - fetchrobotics
+  - frankaemika
   - tensorflow
   - github
   - deepmind
