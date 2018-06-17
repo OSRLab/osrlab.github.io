@@ -33,7 +33,6 @@ featured_orgs:
   - frankaemika
   - tensorflow
   - github
-  - synpon
   - deepmind
   - ros-industrial
   - openai
@@ -46,6 +45,13 @@ featured_orgs:
   - facebook
   - microsoft
   - google
+  - nasa
+  - mila-udem
+  - willowgarage
+  - robotlocomotion
+  - uw-biorobotics
+  - robotis-git
+  - synpon
   - bulletphysics
   - ros2
   - uweb
