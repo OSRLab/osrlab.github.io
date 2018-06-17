@@ -27,6 +27,7 @@ sass:
 
 # orgs on front page
 featured_orgs:
+  - synpon
   - tensorflow
   - github
   - deepmind
