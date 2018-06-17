@@ -29,8 +29,6 @@ sass:
 featured_orgs:
   - osrf
   - ros
-  - ros-planning
-  - ros2
   - fetchrobotics
   - frankaemika
   - tensorflow
@@ -39,11 +37,13 @@ featured_orgs:
   - deepmind
   - openai
   - intel
+  - ros-planning
   - AMD
   - ROCmSoftwarePlatform
   - facebook
   - microsoft
   - google
+  - ros2
   - uweb
   - epfml
   - csail
