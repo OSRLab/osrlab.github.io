@@ -38,12 +38,15 @@ featured_orgs:
   - ros-industrial
   - openai
   - intel
+  - opencv
   - ros-planning
   - AMD
+  - ROCm-Developer-Tools
   - ROCmSoftwarePlatform
   - facebook
   - microsoft
   - google
+  - bulletphysics
   - ros2
   - uweb
   - epfml
