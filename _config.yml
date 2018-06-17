@@ -27,7 +27,6 @@ sass:
 
 # orgs on front page
 featured_orgs:
-  - synpon
   - osrf
   - ros
   - ros-planning
@@ -36,6 +35,7 @@ featured_orgs:
   - frankaemika
   - tensorflow
   - github
+  - synpon
   - deepmind
   - openai
   - intel
