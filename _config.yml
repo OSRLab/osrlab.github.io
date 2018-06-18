@@ -1,8 +1,8 @@
 # global settings
-title: "GitHub and Government"
-description: "GitHub helps government build software better, together"
+title: "Open Science Robotics Lab"
+description: "A new kind of lab for a new era in science"
 permalink: "/stories/:title"
-url: https://government.github.com
+url: https://osrlab.org
 relative_permalinks: false
 analytics_account: "UA-3769691-28"
 
